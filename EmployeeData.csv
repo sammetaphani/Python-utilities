@@ -1,0 +1,6 @@
+EmpId,FirstName,LastName,Position,Manager,Street,City,State,Zip,Country
+101,Aaron,Kimberlei,Analyst,Perry Karl,507 20th Ave,Seattle,WA,10023,USA
+102,Paul,Carter,Sales rep,Williams Carol,"303, Leafcrest ln",Fairfax,VA,22033,USA
+103,George,Jenkins,Engineer,Perry Karl,"443, Arlington",ALDIE,VA,20105,USA
+104,Carol,Williams,Manager,NA,"56879, plaza ln",Chantilly,VA,20151,USA
+105,Karl,Perry,Manager,NA,"2123,Rocker Ln",Herndon,VA,20171,USA
